@@ -3,9 +3,9 @@
 # 克劳德的科学技能
 
 [![许可证：麻省理工学院](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-[![技能](https://img.shields.io/badge/Skills-123-brightgreen.svg)](#whats-included)
+[![技能](https://img.shields.io/badge/Skills-128-brightgreen.svg)](#whats-included)
 
-由 K-Dense 团队为 Claude 创建的 **123 多项即用型科学技能**的综合集合。将 Claude 转变为您的人工智能研究助理，能够执行生物学、化学、医学等领域复杂的多步骤科学工作流程。
+由 K-Dense 团队为 Claude 创建的 **128 多项即用型科学技能**的综合集合。将 Claude 转变为您的人工智能研究助理，能够执行生物学、化学、医学等领域复杂的多步骤科学工作流程。
 
 这些技能使克劳德能够与跨多个科学领域的专业科学图书馆、数据库和工具无缝合作：
 - 🧬 生物信息学和基因组学 - 序列分析、单细胞 RNA-seq、基因调控网络、变异注释、系统发育分析
@@ -34,10 +34,10 @@
 
 ## 📦 包含什么
 
-该存储库提供**123+ 科学技能**，分为以下类别：
+该存储库提供**128+ 科学技能**，分为以下类别：
 
 - **26+ 科学数据库** - 直接 API 访问 OpenAlex、PubMed、ChEMBL、UniProt、COSMIC、ClinicalTrials.gov 等
-- **52+ Python 包** - RDKit、Scanpy、PyTorch Lightning、scikit-learn、BioPython、GeoPandas 等
+- **54+ Python 包** - RDKit、Scanpy、PyTorch Lightning、scikit-learn、BioPython、PennyLane、Qiskit 等
 - **15+ 科学集成** - Benchling、DNAnexus、LatchBio、OMERO、Protocols.io 等
 - **20 多种分析和交流工具** - 文献综述、科学写作、同行评审、文档处理
 
@@ -80,9 +80,9 @@
 - **多步骤工作流程** - 使用单个提示执行复杂的管道
 
 ### 🎯 **全面覆盖**
-- **123+ 技能** - 广泛覆盖所有主要科学领域
+- **127+ 技能** - 广泛覆盖所有主要科学领域
 - **26+ 数据库** - 直接访问 OpenAlex、PubMed、ChEMBL、UniProt、COSMIC 等
-- **52+ Python 包** - RDKit、Scanpy、PyTorch Lightning、scikit-learn、GeoPandas 等
+- **54+ Python 包** - RDKit、Scanpy、PyTorch Lightning、scikit-learn、PennyLane、Qiskit 等
 
 ### 🔧 **轻松集成**
 - **一键安装** - 通过 Claude Code 或 MCP 服务器安装
@@ -324,7 +324,7 @@ networks, and search GEO for similar patterns.
 
 ## 📚 可用技能
 
-该存储库包含跨多个领域组织的 **121 多项科学技能**。每项技能都提供了全面的文档、代码示例以及使用科学库、数据库和工具的最佳实践。
+该存储库包含跨多个领域组织的 **123 多项科学技能**。每项技能都提供了全面的文档、代码示例以及使用科学库、数据库和工具的最佳实践。
 
 ### 技能类别
 
@@ -363,10 +363,11 @@ networks, and search GEO for similar patterns.
 - 降维：UMAP-learn
 - 统计建模：statsmodels
 
-#### 🔮 **材料科学与化学**（3 项技能）
+#### 🔮 **材料科学、化学与物理学**（7 项技能）
 - 材料：皮马特根
 - 代谢建模：COBRApy
 - 天文学：天文学
+- 量子计算：Cirq、PennyLane、Qiskit、QuTiP
 
 #### ⚙️ **工程与模拟**（3 项技能）
 - 计算流体动力学：FluidSim
@@ -395,12 +396,13 @@ networks, and search GEO for similar patterns.
 - 蛋白质语言模型：ESM
 - 云实验室平台：Adaptyv（自动化蛋白质测试和验证）
 
-#### 📚 **科学沟通**（9 个以上技能）
+#### 📚 **科学沟通**（10 个以上技能）
 - 文献：OpenAlex、PubMed、文献综述
 - 网页搜索：Perplexity Search（人工智能驱动的实时信息搜索）
 - 写作：科学写作、同行评审
 - 文档处理：DOCX、PDF、PPTX、XLSX、MarkItDown
 - 出版：Paper-2-Web
+- 插图生成：Generate Image（使用 FLUX.2 Pro 和 Gemini 3 Pro 进行 AI 图像生成）
 
 #### 🔬 **科学数据库**（26+ 技能）
 - 蛋白质：UniProt、PDB、AlphaFold DB

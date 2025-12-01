@@ -27,6 +27,7 @@
 17. [临床研究与现实世界证据](#clinical-research--real-world-evidence)
 18.[实验物理与数据分析](#experimental-physicals--data-analysis)
 19. [化学工程与工艺优化](#chemical-engineering--process-optimization)
+20. [科学插图与视觉传达](#scientific-illustration--visual-communication)
 
 ---
 
@@ -2016,5 +2017,60 @@ Expected Output:
 - 记录参数和可重复性决策
 - 生成解释方法的自述文件
 - 创建 PDF 以供利益相关者沟通
+
+---
+
+## 科学插图与视觉传达
+
+### 示例 20：创建出版级科学图形
+
+**目标**：生成和优化用于出版物和演示的科学插图、图表和图形摘要。
+
+**使用的技能**：
+- `generate-image` - AI 图像生成和编辑
+- `matplotlib` - 数据可视化
+- `scientific-visualization` - 最佳实践
+- `scientific-writing` - 图表标题创建
+- `reportlab` - PDF 报告生成
+
+**工作流程**：
+
+```bash
+第 1 步：规划视觉传达策略
+- 识别需要视觉表示的关键概念：
+  * 实验流程图
+  * 分子结构和相互作用
+  * 数据可视化（由 matplotlib 处理）
+  * 机制的概念性插图
+  * 论文摘要的图形摘要
+- 确定适合目标期刊/受众的风格
+- 为每个图形草图设计粗略布局
+
+第 2 步：生成实验流程图
+- 使用详细提示调用 generate-image 技能：
+
+Use available skills you have access to whenever possible. Generate a detailed experimental workflow diagram for a drug discovery pipeline.
+Include: (1) Target identification stage with protein structure visualization,
+(2) High-throughput screening showing compound libraries and assay plates,
+(3) Hit-to-lead optimization with medicinal chemistry cycles,
+(4) In vitro testing with cell culture and assay equipment,
+(5) In vivo studies with animal models,
+(6) Clinical trial phases with patient cohorts.
+Use clean, professional scientific illustration style suitable for pharmaceutical research publications.
+Color-code different stages and include arrows showing workflow progression.
+```
+
+**预期输出**：
+- 高质量的科学插图，适用于期刊投稿
+- 标准化的视觉风格和数据可视化
+- 专业的图形摘要和机制示意图
+- 完整的图表标题和说明文本
+
+**应用场景**：
+- 期刊论文插图准备
+- 会议演示材料制作
+- 专利申请图表
+- 教学材料开发
+- 研究提案视觉化
 
 这些示例展示了结合该存储库中的技能来解决跨多个领域的复杂的、现实世界的科学挑战的力量。
