@@ -1,0 +1,210 @@
+{
+  "created_at": "2025-12-01T14:14:12.574691",
+  "total_missing_files": 27,
+  "tasks": [
+    {
+      "task_id": 1,
+      "files": [
+        {
+          "english": "scientific-skills/qiskit/references/backends.md",
+          "chinese_expected": "scientific-skills/qiskit/references/backends.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/backends.md",
+          "size_kb": 9
+        },
+        {
+          "english": "scientific-skills/qiskit/references/setup.md",
+          "chinese_expected": "scientific-skills/qiskit/references/setup.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/setup.md",
+          "size_kb": 1
+        },
+        {
+          "english": "scientific-skills/qiskit/references/transpilation.md",
+          "chinese_expected": "scientific-skills/qiskit/references/transpilation.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/transpilation.md",
+          "size_kb": 7
+        },
+        {
+          "english": "scientific-skills/qiskit/references/patterns.md",
+          "chinese_expected": "scientific-skills/qiskit/references/patterns.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/patterns.md",
+          "size_kb": 13
+        },
+        {
+          "english": "scientific-skills/qiskit/references/algorithms.md",
+          "chinese_expected": "scientific-skills/qiskit/references/algorithms.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/algorithms.md",
+          "size_kb": 14
+        },
+        {
+          "english": "scientific-skills/qiskit/references/circuits.md",
+          "chinese_expected": "scientific-skills/qiskit/references/circuits.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/circuits.md",
+          "size_kb": 3
+        },
+        {
+          "english": "scientific-skills/pennylane/references/optimization.md",
+          "chinese_expected": "scientific-skills/pennylane/references/optimization.zh.md",
+          "relative_path": "scientific-skills/pennylane/references/optimization.md",
+          "size_kb": 16
+        }
+      ],
+      "count": 7
+    },
+    {
+      "task_id": 2,
+      "files": [
+        {
+          "english": "scientific-skills/qiskit/references/circuits.md",
+          "chinese_expected": "scientific-skills/qiskit/references/circuits.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/circuits.md",
+          "size_kb": 3
+        },
+        {
+          "english": "scientific-skills/qiskit/references/visualization.md",
+          "chinese_expected": "scientific-skills/qiskit/references/visualization.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/visualization.md",
+          "size_kb": 7
+        },
+        {
+          "english": "scientific-skills/qiskit/references/primitives.md",
+          "chinese_expected": "scientific-skills/qiskit/references/primitives.zh.md",
+          "relative_path": "scientific-skills/qiskit/references/primitives.md",
+          "size_kb": 5
+        },
+        {
+          "english": "scientific-skills/qutip/references/core_concepts.md",
+          "chinese_expected": "scientific-skills/qutip/references/core_concepts.zh.md",
+          "relative_path": "scientific-skills/qutip/references/core_concepts.md",
+          "size_kb": 5
+        },
+        {
+          "english": "scientific-skills/qutip/references/time_evolution.md",
+          "chinese_expected": "scientific-skills/qutip/references/time_evolution.zh.md",
+          "relative_path": "scientific-skills/qutip/references/time_evolution.md",
+          "size_kb": 7
+        },
+        {
+          "english": "scientific-skills/qutip/references/analysis.md",
+          "chinese_expected": "scientific-skills/qutip/references/analysis.zh.md",
+          "relative_path": "scientific-skills/qutip/references/analysis.md",
+          "size_kb": 9
+        },
+        {
+          "english": "scientific-skills/pennylane/references/quantum_chemistry.md",
+          "chinese_expected": "scientific-skills/pennylane/references/quantum_chemistry.zh.md",
+          "relative_path": "scientific-skills/pennylane/references/quantum_chemistry.md",
+          "size_kb": 14
+        }
+      ],
+      "count": 7
+    },
+    {
+      "task_id": 3,
+      "files": [
+        {
+          "english": "scientific-skills/qutip/references/analysis.md",
+          "chinese_expected": "scientific-skills/qutip/references/analysis.zh.md",
+          "relative_path": "scientific-skills/qutip/references/analysis.md",
+          "size_kb": 9
+        },
+        {
+          "english": "scientific-skills/qutip/references/advanced.md",
+          "chinese_expected": "scientific-skills/qutip/references/advanced.zh.md",
+          "relative_path": "scientific-skills/qutip/references/advanced.md",
+          "size_kb": 11
+        },
+        {
+          "english": "scientific-skills/qutip/references/visualization.md",
+          "chinese_expected": "scientific-skills/qutip/references/visualization.zh.md",
+          "relative_path": "scientific-skills/qutip/references/visualization.md",
+          "size_kb": 8
+        },
+        {
+          "english": "scientific-skills/cirq/references/noise.md",
+          "chinese_expected": "scientific-skills/cirq/references/noise.zh.md",
+          "relative_path": "scientific-skills/cirq/references/noise.md",
+          "size_kb": 13
+        },
+        {
+          "english": "scientific-skills/cirq/references/hardware.md",
+          "chinese_expected": "scientific-skills/cirq/references/hardware.zh.md",
+          "relative_path": "scientific-skills/cirq/references/hardware.md",
+          "size_kb": 11
+        }
+      ],
+      "count": 5
+    },
+    {
+      "task_id": 4,
+      "files": [
+        {
+          "english": "scientific-skills/cirq/references/experiments.md",
+          "chinese_expected": "scientific-skills/cirq/references/experiments.zh.md",
+          "relative_path": "scientific-skills/cirq/references/experiments.md",
+          "size_kb": 15
+        },
+        {
+          "english": "scientific-skills/cirq/references/transformation.md",
+          "chinese_expected": "scientific-skills/cirq/references/transformation.zh.md",
+          "relative_path": "scientific-skills/cirq/references/transformation.md",
+          "size_kb": 9
+        },
+        {
+          "english": "scientific-skills/cirq/references/simulation.md",
+          "chinese_expected": "scientific-skills/cirq/references/simulation.zh.md",
+          "relative_path": "scientific-skills/cirq/references/simulation.md",
+          "size_kb": 8
+        },
+        {
+          "english": "scientific-skills/cirq/references/building.md",
+          "chinese_expected": "scientific-skills/cirq/references/building.zh.md",
+          "relative_path": "scientific-skills/cirq/references/building.md",
+          "size_kb": 5
+        },
+        {
+          "english": "scientific-skills/reactome-database/references/api_reference.md",
+          "chinese_expected": "scientific-skills/reactome-database/references/api_reference.zh.md",
+          "relative_path": "scientific-skills/reactome-database/references/api_reference.md",
+          "size_kb": 10
+        }
+      ],
+      "count": 5
+    },
+    {
+      "task_id": 5,
+      "files": [
+        {
+          "english": "scientific-skills/pennylane/references/quantum_ml.md",
+          "chinese_expected": "scientific-skills/pennylane/references/quantum_ml.zh.md",
+          "relative_path": "scientific-skills/pennylane/references/quantum_ml.md",
+          "size_kb": 14
+        },
+        {
+          "english": "scientific-skills/pennylane/references/getting_started.md",
+          "chinese_expected": "scientific-skills/pennylane/references/getting_started.zh.md",
+          "relative_path": "scientific-skills/pennylane/references/getting_started.md",
+          "size_kb": 4
+        },
+        {
+          "english": "scientific-skills/pennylane/references/devices_backends.md",
+          "chinese_expected": "scientific-skills/pennylane/references/devices_backends.zh.md",
+          "relative_path": "scientific-skills/pennylane/references/devices_backends.md",
+          "size_kb": 12
+        },
+        {
+          "english": "scientific-skills/pennylane/references/advanced_features.md",
+          "chinese_expected": "scientific-skills/pennylane/references/advanced_features.zh.md",
+          "relative_path": "scientific-skills/pennylane/references/advanced_features.md",
+          "size_kb": 14
+        },
+        {
+          "english": "scientific-skills/pennylane/references/quantum_circuits.md",
+          "chinese_expected": "scientific-skills/pennylane/references/quantum_circuits.zh.md",
+          "relative_path": "scientific-skills/pennylane/references/quantum_circuits.md",
+          "size_kb": 9
+        }
+      ],
+      "count": 5
+    }
+  ]
+}
